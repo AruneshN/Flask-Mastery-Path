@@ -7,7 +7,127 @@ This repository is designed to take a developer from beginner to advanced level 
 ---
 
 # 📂 Project Structure
-
+Web_Frameworks/
+│
+└── 01_Flask/
+│
+├── 01_Basics/
+│ ├── app_creation.py
+│ ├── routing.py
+│ ├── http_methods.py
+│ ├── request_response.py
+│ └── url_building.py
+│
+├── 02_Templates_Jinja/
+│ ├── render_template.py
+│ ├── template_inheritance/
+│ │ ├── base.html
+│ │ ├── home.html
+│ │ └── dashboard.html
+│ ├── jinja_filters.py
+│ └── static_files/
+│ ├── css/
+│ ├── js/
+│ └── images/
+│
+├── 03_Forms_Request/
+│ ├── request_object.py
+│ ├── form_handling.py
+│ ├── wtforms_setup.py
+│ ├── csrf_protection.py
+│ └── file_upload.py
+│
+├── 04_Database_SQLAlchemy/
+│ ├── db_setup.py
+│ ├── models/
+│ │ ├── user.py
+│ │ ├── product.py
+│ │ └── order.py
+│ ├── crud_operations.py
+│ ├── relationships.py
+│ ├── advanced_queries.py
+│ ├── transactions.py
+│ └── migrations.md
+│
+├── 05_Authentication/
+│ ├── user_model.py
+│ ├── register.py
+│ ├── login.py
+│ ├── logout.py
+│ ├── password_hashing.py
+│ ├── flask_login_setup.py
+│ ├── remember_me.py
+│ └── role_based_access.py
+│
+├── 06_Blueprints/
+│ ├── project_structure.md
+│ ├── app_factory_pattern.py
+│ ├── auth_blueprint/
+│ ├── main_blueprint/
+│ └── admin_blueprint/
+│
+├── 07_REST_API/
+│ ├── api_structure/
+│ │ ├── init.py
+│ │ ├── v1/
+│ │ │ ├── routes.py
+│ │ │ ├── serializers.py
+│ │ │ └── responses.py
+│ ├── jsonify_examples.py
+│ ├── request_parsing.py
+│ ├── pagination.py
+│ ├── api_error_handling.py
+│ └── jwt_authentication.py
+│
+├── 08_Error_Handling_Logging/
+│ ├── custom_errors.py
+│ ├── global_error_handlers.py
+│ ├── logging_setup.py
+│ └── monitoring_notes.md
+│
+├── 09_Testing/
+│ ├── pytest_setup.py
+│ ├── test_routes.py
+│ ├── test_models.py
+│ └── test_auth.py
+│
+├── 10_Deployment/
+│ ├── environment_variables.md
+│ ├── config_classes.py
+│ ├── gunicorn.md
+│ ├── nginx_basics.md
+│ ├── docker_setup/
+│ │ ├── Dockerfile
+│ │ └── docker-compose.yml
+│ └── production_checklist.md
+│
+└── 11_Final_Project/
+│
+├── SaaS_Billing_System/
+│ ├── app/
+│ │ ├── init.py
+│ │ ├── core/
+│ │ │ ├── extensions.py
+│ │ │ ├── security.py
+│ │ │ └── decorators.py
+│ │ ├── auth/
+│ │ ├── users/
+│ │ ├── products/
+│ │ ├── invoices/
+│ │ ├── api/
+│ │ │ └── v1/
+│ │ ├── models/
+│ │ ├── services/
+│ │ ├── repositories/
+│ │ ├── templates/
+│ │ └── static/
+│ ├── migrations/
+│ ├── tests/
+│ ├── config.py
+│ ├── wsgi.py
+│ ├── run.py
+│ ├── requirements.txt
+│ └── README.md
 ---
 
 # 🧠 Learning Modules
@@ -155,6 +275,7 @@ Move from beginner to industry-ready level
 Arunesh
 
 Python Developer | Flask Learner | Future Software Founder 🚀
+
 
 
 
