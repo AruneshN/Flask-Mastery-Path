@@ -118,13 +118,13 @@ This project simulates real-world industry architecture.
 ---
 
 # ⚙️ Installation
-
+````markdown
 ```bash
 git clone <your-repository-link>
 cd Web_Frameworks/01_Flask
 python -m venv venv
 venv\Scripts\activate
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 ---
 
@@ -155,3 +155,4 @@ Move from beginner to industry-ready level
 Arunesh
 
 Python Developer | Flask Learner | Future Software Founder 🚀
+
