@@ -125,7 +125,7 @@ cd Web_Frameworks/01_Flask
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
-
+```
 ---
 
 # ▶️ Running the Application
@@ -155,5 +155,6 @@ Move from beginner to industry-ready level
 Arunesh
 
 Python Developer | Flask Learner | Future Software Founder 🚀
+
 
 
