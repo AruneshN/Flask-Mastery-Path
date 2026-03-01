@@ -118,7 +118,7 @@ This project simulates real-world industry architecture.
 ---
 
 # ⚙️ Installation
-````markdown
+```markdown
 ```bash
 git clone <your-repository-link>
 cd Web_Frameworks/01_Flask
@@ -155,4 +155,5 @@ Move from beginner to industry-ready level
 Arunesh
 
 Python Developer | Flask Learner | Future Software Founder 🚀
+
 
