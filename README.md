@@ -124,7 +124,7 @@ git clone <your-repository-link>
 cd Web_Frameworks/01_Flask
 python -m venv venv
 venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ---
 
@@ -153,4 +153,5 @@ Move from beginner to industry-ready level
 👨‍💻 Author
 
 Arunesh
+
 Python Developer | Flask Learner | Future Software Founder 🚀
