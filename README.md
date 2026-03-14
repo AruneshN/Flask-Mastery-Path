@@ -22,6 +22,9 @@ Web_Frameworks/
     │
     ├── 02_Templates_Jinja/
     │   ├── render_template.py
+    |   ├── templates/
+    |       ├──login.html
+    |       ├──user.html
     │   ├── template_inheritance/
     │   │   ├── base.html
     │   │   ├── home.html
