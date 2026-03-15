@@ -28,10 +28,10 @@ Web_Frameworks/
     |       ├──user_list.html
     |       ├──control_statement.html
     |
-    │   ├── template_inheritance/
-    │   │   ├── base.html
-    │   │   ├── home.html
-    │   │   └── dashboard.html
+    │       ├── template_inheritance/
+    │       │  ├── base.html
+    │       │  ├── home.html
+    │       │  └── dashboard.html
     │   ├── jinja_filters.py
     │   └── static_files/
     │       ├── css/
